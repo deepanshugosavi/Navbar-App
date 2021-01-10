@@ -11,6 +11,7 @@ function Navbar(props) {
   const handleOnClick = () => {
     setActive(!active);
   };
+  const base_app_path = "/Navbar-App";
 
   return (
     <div className="navbar">
@@ -31,7 +32,7 @@ function Navbar(props) {
         </div>
         {ScreenData.map((v, i) => {
           return (
-            <Link to={v.path} className="menu__item" key={i}>
+            <Link to={base_app_path + v.path} className="menu__item" key={i}>
               <div className="menu__icon"> {v.icon} </div>
               <div className="menu__title">{v.title}</div>
             </Link>
