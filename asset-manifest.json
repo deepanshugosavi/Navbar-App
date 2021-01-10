@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Navbar-App/static/css/main.56a542fb.chunk.css",
-    "main.js": "/Navbar-App/static/js/main.0dc8b0f3.chunk.js",
-    "main.js.map": "/Navbar-App/static/js/main.0dc8b0f3.chunk.js.map",
+    "main.js": "/Navbar-App/static/js/main.daee0357.chunk.js",
+    "main.js.map": "/Navbar-App/static/js/main.daee0357.chunk.js.map",
     "runtime-main.js": "/Navbar-App/static/js/runtime-main.3c4484e1.js",
     "runtime-main.js.map": "/Navbar-App/static/js/runtime-main.3c4484e1.js.map",
     "static/js/2.885685b2.chunk.js": "/Navbar-App/static/js/2.885685b2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3c4484e1.js",
     "static/js/2.885685b2.chunk.js",
     "static/css/main.56a542fb.chunk.css",
-    "static/js/main.0dc8b0f3.chunk.js"
+    "static/js/main.daee0357.chunk.js"
   ]
 }
