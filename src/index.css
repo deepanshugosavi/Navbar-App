@@ -24,7 +24,7 @@ body {
 
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   position: relative;
 }
 .navbar__heading {
@@ -81,7 +81,7 @@ body {
   width: 160px;
   margin: 20px auto;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: baseline;
   transition: 850ms;
 }

@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaBars } from "react-icons/fa";
-import { IconContext } from "react-icons/lib";
 import { AiOutlineClose } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { ScreenData } from "./ScreenData";
